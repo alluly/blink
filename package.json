@@ -1,0 +1,32 @@
+{
+  "name": "blink",
+  "version": "0.0.0",
+  "description": "Howdy",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alluly/blink.git"
+  },
+  "keywords": [
+    "ios",
+    "web"
+  ],
+  "author": "Ali Hasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alluly/flamenco/issues"
+  },
+  "homepage": "https://github.com/alluly/blink",
+  "dependencies": {
+    "express": "~3.4.8",
+    "logfmt": "~0.18.1",
+    "socket.io": "*",
+    "mongodb": "*"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
